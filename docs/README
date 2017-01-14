@@ -1,20 +1,3 @@
-##############################################################################
-#                                                                            #
-#   This is the Conservatory copy of the American Fuzzy Lop (AFL) software   #
-#   fuzzer.  The upstream source is at http://lcamtuf.coredump.cx/afl/.      #
-#                                                                            #
-#   The Conservatory (http://conservatory.github.io/) is a place where       #
-#   software that has no other public version-controlled home on the         #
-#   Internet is made available in a git repository.  For AFL, we             #
-#   try to offer each AFL release (starting from afl-0.47b, the oldest       #
-#   available at the time we picked up AFL) as a single git commit.          #
-#                                                                            #
-#   This README is the only file we've changed from upstream, and the        #
-#   only change we made was to add this note.  Below is the content of       #
-#   the original README.                                                     #
-#                                                                            #
-##############################################################################
-
 ==================
 american fuzzy lop
 ==================
@@ -496,6 +479,8 @@ bug reports, or patches from:
   Kurt Roeckx                           Marcel Bohme
   Van-Thuan Pham                        Abhik Roychoudhury
   Joshua J. Drake                       Toby Hutton
+  Rene Freingruber                      Sergey Davidoff
+  Sami Liedes                           Craig Young
 
 Thank you!
 
